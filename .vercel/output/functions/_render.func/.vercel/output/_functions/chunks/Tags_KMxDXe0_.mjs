@@ -1,7 +1,7 @@
 import { c as createComponent, r as renderTemplate, m as maybeRenderHead, a as addAttribute, d as createAstro } from './astro/server_BEqEkFUW.mjs';
 import 'kleur/colors';
 import 'clsx';
-import { c as capitalize } from './MainLayout_Dzm0yY-1.mjs';
+import { c as capitalize } from './MainLayout_DElYz4aQ.mjs';
 
 const $$Astro = createAstro();
 const $$Tags = createComponent(($$result, $$props, $$slots) => {
