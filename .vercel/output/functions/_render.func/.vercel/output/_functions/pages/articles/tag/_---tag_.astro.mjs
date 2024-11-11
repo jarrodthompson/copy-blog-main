@@ -1,9 +1,9 @@
 /* empty css                                       */
 import { c as createComponent, r as renderTemplate, b as renderComponent, d as createAstro, m as maybeRenderHead } from '../../../chunks/astro/server_BEqEkFUW.mjs';
 import 'kleur/colors';
-import { c as capitalize, $ as $$MainLayout } from '../../../chunks/MainLayout_DElYz4aQ.mjs';
-import { $ as $$ArticleCard } from '../../../chunks/ArticleCard_C00xGBla.mjs';
-import { g as getCollection } from '../../../chunks/_astro_content_BVnOVqz8.mjs';
+import { c as capitalize, $ as $$MainLayout } from '../../../chunks/MainLayout_BUtuF6ah.mjs';
+import { $ as $$ArticleCard } from '../../../chunks/ArticleCard_CylIPAmX.mjs';
+import { g as getCollection } from '../../../chunks/_astro_content_BHuLi0bD.mjs';
 export { renderers } from '../../../renderers.mjs';
 
 const $$Astro = createAstro();
